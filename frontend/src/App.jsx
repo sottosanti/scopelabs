@@ -148,7 +148,6 @@ function App() {
                   <div className="profile-dropdown">
                     <div className="profile-info">
                       <div className="profile-name">{userName}</div>
-                      <div className="profile-id">@{userId}</div>
                     </div>
                     <button 
                       className="logout-button"
